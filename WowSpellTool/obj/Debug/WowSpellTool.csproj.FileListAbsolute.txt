@@ -1,0 +1,12 @@
+c:\users\richard\documents\visual studio 2015\Projects\WowSpellTool\WowSpellTool\bin\Debug\WowSpellTool.exe.config
+c:\users\richard\documents\visual studio 2015\Projects\WowSpellTool\WowSpellTool\bin\Debug\WowSpellTool.exe
+c:\users\richard\documents\visual studio 2015\Projects\WowSpellTool\WowSpellTool\bin\Debug\WowSpellTool.pdb
+c:\users\richard\documents\visual studio 2015\Projects\WowSpellTool\WowSpellTool\bin\Debug\HtmlAgilityPack.dll
+c:\users\richard\documents\visual studio 2015\Projects\WowSpellTool\WowSpellTool\bin\Debug\HtmlAgilityPack.pdb
+c:\users\richard\documents\visual studio 2015\Projects\WowSpellTool\WowSpellTool\bin\Debug\HtmlAgilityPack.xml
+c:\users\richard\documents\visual studio 2015\Projects\WowSpellTool\WowSpellTool\obj\Debug\WowSpellTool.csprojResolveAssemblyReference.cache
+c:\users\richard\documents\visual studio 2015\Projects\WowSpellTool\WowSpellTool\obj\Debug\WowSpellTool.Form1.resources
+c:\users\richard\documents\visual studio 2015\Projects\WowSpellTool\WowSpellTool\obj\Debug\WowSpellTool.Properties.Resources.resources
+c:\users\richard\documents\visual studio 2015\Projects\WowSpellTool\WowSpellTool\obj\Debug\WowSpellTool.csproj.GenerateResource.Cache
+c:\users\richard\documents\visual studio 2015\Projects\WowSpellTool\WowSpellTool\obj\Debug\WowSpellTool.exe
+c:\users\richard\documents\visual studio 2015\Projects\WowSpellTool\WowSpellTool\obj\Debug\WowSpellTool.pdb
